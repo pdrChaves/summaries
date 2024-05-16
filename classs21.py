@@ -1,4 +1,4 @@
-# Operador lógico: "and"
+# Operador lógico: "and", "or"
 
 senha_permitida = 123
 entrada = input(
