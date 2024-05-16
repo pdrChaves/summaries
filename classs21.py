@@ -9,7 +9,7 @@ if entrada == 'e' or 'E' or 'entrar' or 'Entrar':
         'Digite sua senha: '
                           )
 
-if (entrada == 'entrar'or 'e' or 'E' or 'Entrar') and (int(senha_digitada) == senha_permitida):
+if (entrada == 'entrar' or 'e' or 'E' or 'Entrar') and (senha_digitada == senha_permitida):
     print(
         'Seja bem vindo. '
         )
